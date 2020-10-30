@@ -89,7 +89,7 @@ int main(void)
 	Monster* obj[3];
 	int select = 0;
 
-	printf("ru\n");
+	printf("su\n");
 
 	for (int i = 0; i < 3; i++)
 	{
